@@ -1,0 +1,124 @@
+
+                @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+                
+                *{
+                margin:0;
+                padding: 0;
+                }
+                
+                body{
+                
+                font-family: 'Poppins', sans-serif;
+                color:rgb(0, 0, 0);
+                background-color: #1b007e;
+                
+                
+                }
+                #navigation{
+                background-color:#111111;
+                color:rgb(0, 0, 0);
+                
+                }
+                
+                a{
+                color: white;
+                font-size: large;
+                }
+
+                a:hover{
+                color:#e00000 ;
+                }
+
+                .dropdown-item:hover{
+                    background-color:#e00000 ;
+                    color:white;
+                    border-radius: 15px;
+                }
+                i:hover{
+                    color:#e00000;
+                }
+                span{
+                    color:#e00000;
+                }
+                button:hover{
+                background-color: #111111;
+                color:#e00000;
+                border:2px solid #e00000;
+               
+                }
+                button{
+                background-color:#e00000 ;
+                color:white;
+                width: auto;
+                height: auto;
+                border:2px solid #e00000;
+                text-align:center;
+                padding: 9px;
+                border-radius: 5px;
+                font-size: 18px;
+                outline: none;
+                
+                
+                }
+               #para{
+                font-size: 18px;
+    
+               }
+               #col1{
+                border-radius: 10px;
+               }
+               #col1:hover{
+                background-color:#e00000; 
+               }
+               #web{
+                color:#e00000;
+               }
+               #case{
+                font-size: 38px;
+               }
+               #g1{
+                border-bottom: 2px solid white;
+                text-align: center;
+               }
+               #footer{
+                color: white;
+               }
+               
+               #col2{
+                border-right: 3px solid #e00000;
+               
+               }
+               #btn1{
+
+background-color:#e00000 ;
+                color:white;
+                width: 250px;
+                height: auto;
+                border:2px solid #e00000;
+                text-align:center;
+                padding: 9px;
+                border-radius: 5px;
+                font-size: 18px;
+                outline: none;
+
+               }
+#btn1:hover{
+                background-color: #111111;
+                color:#e00000;
+                border:2px solid #e00000;
+               
+                }
+                #col2{
+                    font-size: 20px;
+                }
+                #col4{
+                    border-right: 2px solid #e00000;
+                }
+                #footer{
+                    
+                    background-color: #1E1E1E;
+                }
+                #scroll{
+                    border-top: 2px solid #F05423;
+                }
+                
